@@ -48,4 +48,5 @@
 .results img {
   width: 45%;
   flex: 1 0;
+  border: 1px solid #555;
 }
